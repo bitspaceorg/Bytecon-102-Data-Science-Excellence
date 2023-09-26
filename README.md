@@ -2,7 +2,7 @@
   <h1>
   <img src="https://github.com/t-aswath/Bytecon100-Yuvenza/assets/119417646/c4f6bfcf-0a00-44c2-8ca1-b06648dab4e9" width="100">
   <br>
-    BYTECON102-AIML And Beyond
+    BYTECON102-Data Science Excellence
   </h1>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=black">
