@@ -6,7 +6,7 @@
   </h1>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=black">
-  <img src="https://img.shields.io/badge/:bitspace x talos-%23121011?style=for-the-badge&logoColor=%23ffffff&color=%23000000">
+  <img src="https://img.shields.io/badge/:bitspace x yuvenza-%23121011?style=for-the-badge&logoColor=%23ffffff&color=%23000000">
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&color=black">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&color=black">
 </div>
